@@ -37,6 +37,6 @@ How does attrition vary between male and female employees?
 Which education fields show higher attrition rates?
 What are the job satisfaction levels across different roles?
 
-# 📸 Dashboard Preview / Screenshots
+# 📸 Dashboard Preview / Screenshot
 
-Dashboard image:
+Dashboard image:https://github.com/VeenaMIsareddy/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png
